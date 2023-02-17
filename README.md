@@ -5,6 +5,6 @@ ADMETE is a contract from the US Air Force that stands for Assured Digital Micro
 LPKF (Leiterplatten-Kopierfrasen) is a company that produces lasers and electronics for printed circuit board technology. The company is based in Garbsen, Germany. 
 
 # Guides
-For the purposes of guides, I will be refrencing the [Yampad](https://github.com/mattdibi/yampad) which we have created many times before and we are confident in our production process of, as an example device. These guides will also assume a base level understanding of navigating Github, if you need help understanding [Github](https://docs.github.com/en/get-started/quickstart/hello-world) or [Github Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop), click here.
+For the purposes of guides, I will be refrencing the [Yampad](https://github.com/mattdibi/yampad) which we have created many times before and we are confident in our production process of, as an example device. These guides will also assume a base level understanding of navigating Github, if you need help understanding [Github](https://docs.github.com/en/get-started/quickstart/hello-world), click here.
 
 # ALL PROCEDURES AND PROTOCOLS ARE SUBJECT TO CHANGE
