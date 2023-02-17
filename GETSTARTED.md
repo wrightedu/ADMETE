@@ -6,4 +6,4 @@ The very first step of any production process is design. There are many differen
 Rather than designing the boards yourself from scratch, you can also find many of the files necessary to create a board online. This is primarily what we have been doing in this lab, but in the future we plan to create our own in house designs as well.
 
 # First Steps
-All computers in this lab have Github Desktop installed. This will allow you to easily access your projects from any machine in the lab. So if you are
+
