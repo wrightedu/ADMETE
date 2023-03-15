@@ -6,6 +6,6 @@ The very first step of any production process is design. There are many differen
 Rather than designing the boards yourself from scratch, you can also find many of the files necessary to create a board online. This is primarily what we have been doing in this lab, but in the future we plan to create our own in house designs as well.
 
 # First Steps
-Throughout this entire process, one of the key points is to use the computer wizards. These wizards simplify the entire process and give step by step instuctions of every step of the production process and also prompts for safety checks and procedure checks to make sure the operations is proceeding smoothly.
+Throughout this entire process, one of the key points is to use the computer wizards. These wizards simplify the entire process and give step by step instuctions of every step of the production process and also prompts for safety checks and procedure checks to make sure the operation is proceeding smoothly.
 
 ![Wizards]()
